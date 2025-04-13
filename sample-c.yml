@@ -1,1 +1,3 @@
 service-name: sample-c
+service:
+  name: mmmm
